@@ -1,0 +1,58 @@
+##### Application: Adobe(0)
+xpath:	0	0	0
+idxpath:	0	0	0
+ide:	0	0	0
+robula:	0	0	0
+montoto:	0	0	0
+Multilocator:	0	0	0
+Similo:	0	0	0
+##### Application: Adobe(0)
+##### Application: Adobe(0)
+##### Application: 1Test(0)
+##### Application: 1Test(0)
+##### Application: 1Test(0)
+##### Application: 1Test(0)
+##### Application: 1Test(0)
+##### Application: 1Test(0)
+##### Application: 1Test(0)
+##### Application: 1Test(0)
+xpath:	0	1	0
+idxpath:	0	1	0
+ide:	0	1	0
+robula:	0	1	0
+montoto:	0	1	0
+Multilocator:	0	1	0
+Similo:	1	0	0
+##### Application: 1Test(0)
+xpath:	0	1	0
+idxpath:	0	1	0
+ide:	0	1	0
+robula:	0	1	0
+montoto:	0	1	0
+Multilocator:	0	1	0
+Similo:	1	0	0
+##### Application: 1Test(0)
+xpath:	0	1	0
+idxpath:	0	1	0
+ide:	0	1	0
+robula:	0	1	0
+montoto:	0	1	0
+Multilocator:	0	1	0
+Similo:	1	0	0
+##### Application: 1Test(0)
+xpath:	0	1	0
+idxpath:	0	1	0
+ide:	0	1	0
+robula:	0	1	0
+montoto:	0	1	0
+Multilocator:	0	1	0
+Similo:	1	0	0
+##### Application: 1Test(0)
+##### Application: 1Test(0)
+xpath:	0	1	0
+idxpath:	0	1	0
+ide:	0	1	0
+robula:	0	1	0
+montoto:	0	1	0
+Multilocator:	0	1	0
+Similo:	1	0	0
